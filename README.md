@@ -1,6 +1,18 @@
 # checklist-vue2
 
-> A Vue.js project
+## 简介
+> 为了减少粗心大意遗漏东西，给自己的重要事情/工作等制作一个checklist的东东，也为了练习及熟练掌握vue
+
+- checklist 功能类似于一个TODO List
+
+## 主要功能
+
+- 新增检查项
+- 完成项列表
+- 忽略项列表
+- 归档管理（编辑删除）
+
+
 
 ## Build Setup
 
@@ -18,4 +30,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
