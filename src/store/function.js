@@ -20,4 +20,4 @@ export const getDate = () => {
   const date = new Date(),
     mouth = parseInt(date.getMonth()) + 1;
   return date.getFullYear() + '-' + mouth + '-' + date.getDate();
-}
+};

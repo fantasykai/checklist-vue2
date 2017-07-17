@@ -70,7 +70,7 @@ export default {
       states.event[info.index].content = info.content;
     } else {
       states.event.filter(function (d) {
-        if (d.id == info.id) {
+        if (d.id === info.id) {
           d.content = info.content;
         }
       })
